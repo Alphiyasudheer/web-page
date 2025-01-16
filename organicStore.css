@@ -1,0 +1,360 @@
+.about{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.sss .about a{
+    color: rgb(66, 63, 63);
+}
+.sss .about .web{
+    color: green;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first-about a{
+    margin-right: 50px;
+    color: black;
+    font-size: larger;
+    text-decoration: none;
+    
+}
+.second-about a{
+    margin-right: 50px;
+    color: black;
+    font-size: larger;
+    text-decoration: none;
+    
+}
+.first-about{
+    margin-top: 20px;
+    margin-left:-300px;
+
+}
+img{
+    margin-top: 2px;
+    margin-left: 4px;
+    /* outline: 2px solid red; */
+}
+.second-about{
+    margin-top: 20px;
+    
+}
+
+.para{
+    width: 450px;
+    margin-top: 80px;
+    margin-left: 90px;
+    /* line-height: 50px; */
+
+}
+.para h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: larger;
+  font-weight: 800;
+  line-height: 50px;
+}
+.para h2{
+    font-size: 50px;
+    line-height: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    line-height: 55px;
+}
+.para p{
+    margin-top: 20px;
+    line-height: 25px;
+    font-size: 18px;
+}
+.para button{
+    width: 130px;
+    margin-top: 35px;
+    color: white;
+    background-color: rgb(16, 147, 16);
+    padding: 8px;
+    border-radius: 5px;
+    border-color:rgb(16, 147, 16);
+}
+.paragraph{
+    display: flex;
+    margin-top: 110px;
+    
+    
+}
+.col-3 .one-two{
+    
+    width: 250px;
+    height: 100px;
+    background-color: rgb(59, 54, 54);
+    color: white;
+    padding: 20px;
+    border-radius: 2px;
+    
+}
+.col-3 .one-two h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container-fluid{
+    background-color: black;
+    padding: 25px;
+    margin-top: 10%;
+}
+.centre{
+    width: 450px;
+    margin: auto;
+    margin-top: 10%;
+   
+}
+.centre h1{
+    line-height: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.container{
+    margin-top: 50px;
+    display: flex;
+}
+span{
+    display: flex;
+
+}
+.container h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    font-weight: bold;
+}
+.container .gro{
+    color: grey;
+}
+.leaf img{
+    width: 15%;
+    margin-top: 10%;
+    margin-left: 40%;
+}
+.jst .card-body h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 500;
+
+}
+.jst .card-body button{
+    width: 130px;
+    
+    color: white;
+    font-weight: bold;
+    background-color: rgb(16, 147, 16);
+    padding: 8px;
+    border-radius: 5px;
+    border-color:rgb(16, 147, 16);
+}
+
+.jst{
+    margin-top: 100px;
+}
+.purchase{
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    background-color: black;
+    color: white;
+    padding: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+.purchase button{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 10px;
+    font-size:15px;
+    height: 50px;
+    width: 150px;
+}
+.try p{
+    width: 250px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 60%;
+    font-size: 23px;
+    margin-top: 25px;
+}
+.trending{
+    width: 450px;
+    margin: auto;
+    margin-top: 10%;
+   
+}
+.trending h1{
+    line-height: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.trend .card-body h2{
+    
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: larger;
+        font-weight: bold;
+    }
+.trend .card-body  p{
+    color: grey;
+}
+.trend .card-body  .ppp{
+    color: black;
+} 
+.customer{
+    width: 450px;
+    margin: auto;
+    margin-top: 10%;
+   
+}
+.customer h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.feedback{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.mila p{
+    width: 200px;
+    /* outline: 2px red solid; */
+    
+}
+.mila{
+    /* margin-left:250px; */
+    margin-top: 140px;
+
+
+}
+.mike {
+    width: 300px;
+    margin-left:200px;
+    margin-top: 160px;
+}
+.mike p{
+    margin-top: 5px;
+}
+.dealOfDay img{
+    /* margin-left: 100px; */
+    position: relative;
+    width: 400px;
+    height: 450px;
+    border-radius: 5px;
+
+    /* outline: 2px red solid; */
+        
+    
+}
+.dealOfDay .card-body{
+    position: absolute;
+}
+
+.dealOfDay h5{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-top: 55px;
+    margin-left:35px ;
+    /* outline: 2px solid red; */
+    width: 300px;
+    /* padding-left: 30px; */
+}
+.dealOfDay p{
+    color: white;
+    margin-left: 50px;
+    margin-top: 35px;
+}
+.dealOfDay a{
+    background-color: rgb(73, 184, 73);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 10px;
+    width: 150px;
+}
+.mike p{
+    margin-top: 20px;
+    margin-left: 13px;
+    color: rgb(66, 62, 62);
+}
+.mila p{
+    margin-top: 20px;
+    margin-left: 13px;
+    color: rgb(66, 62, 62);
+}
+.logo .brand{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+.logo .im{
+    margin-left: 10px;
+}
+.logo{
+    margin-top: 90px;
+}
+.last{
+    margin-top: 70px;
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    border-bottom: 1px solid rgb(70, 66, 66);
+    padding-left: 40px;
+    
+}
+.last .one{
+    margin-top: 25px;
+    width: 450px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.last .quick{
+    width: 190px;
+    margin-left: 90px;
+}
+.last .quick h3{
+    width: 300px;
+}
+.last .quick p{
+    width: 100px;
+}
+.download{
+    margin-left: 70px;
+}
+.download h3{
+    width: 400px;
+}
+.download p{
+    width: 300px;
+}
+.last p{
+    color: grey;
+}
+.last h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+footer{
+    background-color: black;
+    color: rgb(114, 110, 110);
+    padding: 30px;
+}
+
+
+
+
+
+
